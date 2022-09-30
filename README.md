@@ -7,10 +7,8 @@ I recenty finished the Google Data Analytics Certification Program of Coursera w
 and was able to finish my first capstone project to showcase the skills that I learned from the course. You can view that project in one of my repositories. 
 <br>
 
-Currently, I am enjoying the process in honing 🌱 my skills on some Data Analytics tools such as: SQL, Tableau, R Programming.<br>
-
 ### 📚 Project/s 📚
-- Cyclistic Case Study a Google Data Analytics Capstone Project
+- [Cyclistic Case Study a Google Data Analytics Capstone Project](https://github.com/russelpaul/Google-Data-Analytics-Capstone-Project/blob/main/cyclistic-case-study.ipynb)
 
 ### 💡 Core Competencies 💡
 - Tools: Spreadsheet, SQL, Tableau & R Programming
