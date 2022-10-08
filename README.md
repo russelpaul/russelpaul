@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I am Russel, a Chemical Engineer turned aspiring Data Analyst.
-I enjoy working on Exploratory Data Analysis (EDAs) due to my previous nature of work as a Failure Analysis Engineer.<br>
+I enjoy working on Exploratory Data Analysis (EDAs) due to my previous nature of work as a Failure Analysis Engineer / Manufacturing Dara Analyst.<br>
 
 I recenty finished the Google Data Analytics Certification Program of Coursera where I was introduced to different analytical tools, 
 and was able to finish my first capstone project to showcase the skills that I learned from the course. You can view that project in one of my repositories. 
