@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am Russel, a Chemical Engineer turned aspiring Data Analyst.
+I am Russel, a Chemical Engineer turned Data Analyst.
 I enjoy working on Exploratory Data Analysis (EDAs) due to my previous nature of work as a Failure Analysis Engineer / Manufacturing Data Analyst.<br>
 
 I recenty finished the Google Data Analytics Certification Program of Coursera where I was introduced to different analytical tools, 
